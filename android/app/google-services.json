@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "224935761531",
+    "project_id": "hotel-ukk-fire",
+    "storage_bucket": "hotel-ukk-fire.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224935761531:android:705a10b1c677adc917b4de",
+        "android_client_info": {
+          "package_name": "com.example.ukk_hotel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx1Om28Q2E1Wuig7ICCHjY3hRWIzYFRVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
